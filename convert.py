@@ -1,6 +1,6 @@
 # Author:    Rogers Kelamen
 # Fork from: https://github.com/CallMeToProgram/Bad-Apple
-# Bilibili:  https://space.bilibili.com/73503664
+# Bilibili:  https://www.bilibili.com/video/BV1pT411G71A
 # GitHub:    https://github.com/Rogerskelamen/Bad-Ark
 # Mail:      1368180921@qq.com
 

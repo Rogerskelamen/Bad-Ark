@@ -1,6 +1,6 @@
 # Author:    Rogers Kelamen
 # Fork from: https://github.com/CallMeToProgram/Bad-Apple
-# Bilibili:  https://space.bilibili.com/73503664
+# Bilibili:  https://www.bilibili.com/video/BV1pT411G71A
 # GitHub:    https://github.com/Rogerskelamen/Bad-Ark
 # Mail:      1368180921@qq.com
 
@@ -33,7 +33,7 @@ count = 0
 
 stdsrc = curses.initscr()
 curses.start_color()
-stdsrc.resize(30, 100)
+stdsrc.resize(50, 150)
 
 pygame.mixer.init()
 track = pygame.mixer.music.load(BGM_PATH)
